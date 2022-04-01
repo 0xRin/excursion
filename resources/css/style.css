@@ -17,18 +17,23 @@ body {
 
 /* Title Section */
 .title {
-    padding-top: 10px;
-    width: 80%;
+    padding-top: 20px;
+    width: 90%;
     margin: auto;
 }
 
 .title h1 {
     font-size: 50px;
     font-weight: normal;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .title a {
     color: aqua;
     font-size: 16px;
+}
+
+/* Video Feature */
+.video .container {
+    padding-top: 20px;
 }
